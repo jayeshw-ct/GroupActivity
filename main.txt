@@ -1,16 +1,17 @@
 HI
 
+<<<<<<< HEAD
 This file has been changed by Atharva
 
 <<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 9060b9478eb0b928a5c5d6ec90b41356b7adf7d2
 aditya
 Dhanesh
 
-
-
-changes made by aditya
-
-Content updated 11
 
 This is Dhanesh Salgaonkar
 
@@ -25,6 +26,10 @@ Abhijit
 I am Jayesh
 
 Changes made by Bhishmesh.
+
+Changes made by Bhishmesh again.
+
+I am Kalicharan
 
 
 
